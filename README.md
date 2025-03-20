@@ -8,3 +8,4 @@ Model Used - Transformer[TimeSformer pretrained with Kinetics-400] where the mod
 Development - Kaggle (Various Versions)                                             
 Deployment - Google Colaboratory
 
+Check versions here: (Kaggle) (Link mentioned below)  :  https://www.kaggle.com/code/sanketainapure/assigment-final
